@@ -2,3 +2,4 @@
 ismail özdemir
 Degiskenler ve matematiksel operatorler kullanarak hesaplama yaptım. 
 Basit işlemlerigerçekleştirdim
+
