@@ -1,4 +1,4 @@
-public class UcMesaj {
+public class ToplamSeri{
 
 	public static void main(String[] args) {
     //	Sonucu  hesapla 
@@ -11,3 +11,4 @@ public class UcMesaj {
    
 	}
 }
+
